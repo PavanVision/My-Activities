@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+
+.navbar {
+    color: blue;
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+    background-color: red;
+    justify-content: space-around;
+}
+
+.about, .library, .cafeteria, .Placements, .sports {
+    background-color: blue;
+    color: white;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+}
+
+.Engineering-Block {
+    background-color: limegreen;
+    border: 2px solid blue;
+    color: black;
+    font-weight: bold;
+    padding: 15px;
+    margin: 20px auto;
+    display: inline-block;
+}
+
+.about-section {
+    background-color: aqua;
+    border: 2px solid green;
+    color: black;
+    font-weight: bold;
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
+}
